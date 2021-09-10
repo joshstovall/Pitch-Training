@@ -9,4 +9,4 @@ An app for learning how to read notes on a musical clef.  Made in Max.
   - Random, Intervals, or Pick Notes 
  
 
-<img width="1247" alt="Screen Shot 2021-05-23 at 2 19 04 AM" src="https://user-images.githubusercontent.com/40344766/119255131-d76d6700-bb6e-11eb-9443-51fa0cbf3bae.png">
+<img width="1247" alt="Pitch Training" src="https://joshstovall.com/img/pitch-training.gif">
